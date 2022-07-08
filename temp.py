@@ -1,2 +1,2 @@
 print('hello world')
-print('hello from vscode')
+print('hello from github')
